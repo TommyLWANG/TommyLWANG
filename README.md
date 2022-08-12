@@ -4,16 +4,16 @@
 - This is TommyLWANG, very new to the github.<br>
 - Language Proficiency: Chinese :cn: > English :🇺🇸: > Japanese :jp: <br>
 - I am interested in the field/software learning as below:<br>
-- [x] OpenFOAM
-- [ ] ICEM CFX
-- [ ] Qt6.3
-- [ ] Zotero
-- [ ] Creo
-- [ ] MATLAB-Simulink
-- [x] Typora
-- [ ] Git
-- [ ] PyCharm
-- [ ] Visual Studio Code
+>- [x] OpenFOAM
+>- [ ] ICEM CFX
+>- [ ] Qt6.3
+>- [ ] Zotero
+>- [ ] Creo
+>- [ ] MATLAB-Simulink
+>- [x] Typora
+>- [ ] Git
+>- [ ] PyCharm
+>- [ ] Visual Studio Code
 
 Very nice to see you here at my profile, please enjoy and have a look!
 <!---
