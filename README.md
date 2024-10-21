@@ -3,12 +3,12 @@
 
 - Project plan:
 
->- []  1. Tic-Tac-Toe chess game with acceptable UI to play with.
->- []  2. 2-D molecular calculation simulator of fluid
->- []  3. (planned) Embedded Program? using simulink?
->- []  4. Very Easy AI training program, maybe puzzle map solving? car drive algorithm?
+>- [ ]  1. Tic-Tac-Toe chess game with acceptable UI to play with.
+>- [ ]  2. 2-D molecular calculation simulator of fluid
+>- [ ]  3. (planned) Embedded Program? using simulink?
+>- [ ]  4. Very Easy AI training program, maybe puzzle map solving? car drive algorithm?
 >
->- It must be fun to do it!
+- It must be fun to do it!
 
 
 
